@@ -36,13 +36,13 @@
 | **Student ID** | [446051373] |
 | **University Email** | [446051373]@std.psau.edu.sa |
 | **GitHub Username** | [Reema446] |
-| **Repository Link** | [Paste your repository link here] |
+| **Repository Link** | [[Paste your repository link here](https://github.com/Reema446/OS-Assignment3-Reema-Altuwaim.git)] |
  
 ---
 
 ## 🎥 Video Link
 
-**Video Link**: [Paste your video link here]
+**Video Link**: [[Paste your video link here](https://drive.google.com/file/d/1IOPG0sBD_SGF0eZq3j-I7iQTFoWIPTzj/view?usp=drivesdk)]
 
 > ⚠️ **WARNING:** The video must be **publicly accessible** ("Anyone with the link can view") on **Google Drive**, **YouTube (Unlisted or Public)** or any other cloud file-sharing system. A private, restricted or broken link counts as a **missing video (-1 mark)**.
 >
