@@ -36,7 +36,7 @@
 | **Student ID** | [446051373] |
 | **University Email** | [446051373]@std.psau.edu.sa |
 | **GitHub Username** | [Reema446] |
-| **Repository Link** | [[Paste your repository link here](https://github.com/Reema446/OS-Assignment3-Reema-Altuwaim.git)] |
+| **Repository Link** | https://github.com/Reema446/OS-Assignment3-Reema-Altuwaim.git |
  
 ---
 
